@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="200" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/55vNcZTGlOzHvNgrTz/giphy.gif" width="200" />
+</div>
+
 # About Me
 
 ## Hi there! 👋 I'm Passionate About Data and Artificial Intelligence.
