@@ -22,3 +22,5 @@ I'm a data enthusiast with a deep and unwavering love for artificial intelligenc
 ### Find Me Online
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/soraya-franco-l%C3%B3pez-49722679/) to stay updated on my latest projects and insights.
+
+<iframe src="https://giphy.com/embed/JEZ3wy3IUQR8s" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JEZ3wy3IUQR8s">via GIPHY</a></p>
