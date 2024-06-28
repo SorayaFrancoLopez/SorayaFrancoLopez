@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="200" />
+  <img src="https://webprofilesoraya.s3.amazonaws.com/assets/animation.gif" width="200" />
 </div>
 
 # About Me
